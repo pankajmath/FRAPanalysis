@@ -6,8 +6,9 @@ Clone or downlaod the repository and follow the steps in the jupyter notebook.
  
  ## Reference
  If you use our code for research, please cite our paper
- [Bolt MJ, Singh P, Obkirchner CE, Powell RT, Mancini MG, 
+ 
+ Bolt MJ, Singh P, Obkirchner CE, Powell RT, Mancini MG, 
 Stossi F, Mancini MA, Endocrine disrupting chemicals differentially alter intranuclear dynamics 
-and transcriptional activation of estrogen receptor-\alpha]
+and transcriptional activation of estrogen receptor-\alpha
  
 
